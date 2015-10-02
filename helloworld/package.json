@@ -1,11 +1,12 @@
 {
   "name": "hello-world",
   "version": "0.0.1",
-  "description": "An express hello world app",
-  "author": "Neil Ni <tzuyangni@gmail.com>",
+  "description": "A hapi hello world app",
+  "author": "",
   "main": "app.js",
   "dependencies": {
-    "express": "^4.13.3"
+    "consul": "^0.18.0",
+    "hapi": "^10.0.0"
   },
   "license": "MIT"
 }
